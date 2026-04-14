@@ -108,7 +108,7 @@
 ### 🌒 Phone Recognition in Dark Condition
 [▶️ Watch Video](sample%20screenshots/recognition%20in%20dark%20condition%20with%20good%20confidence.mp4)
 
-![TAPACD Demo](assets/demo.gif)
+![TAPACD Demo](assets/recognitionindarkconditionwithgoodconfidence-ezgif.com-video-to-gif-converter.gif)
 ---
 
 ## 🛠️ Tech Stack
